@@ -63,11 +63,11 @@ Hãy sử dụng **4 Lenses** dưới đây để quét qua hoạt động vận
 ### 📝 List bài toán của tôi:
 | # | Subsidiary (VinFast/Xanh SM...) | Lens | Mô tả ngắn bài toán |
 |---|----------------------------------|------|---------------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 |**VinMec**  | Repetitive | Kiểm tra hạn sử dụng thuốc: Lượng thuốc còn và hạn sử dụng |
+| 2 |**VinMec**  | Time-consuming | Làm bệnh án: Cần tổng hợp lời kể cùng như các kết quả xét nhiệm |
+| 3 |**Vinmec**  |AI có thể tốt hơn  | Trợ lý đa ngôn ngữ: Việc bệnh nhân có thể tiếp cận bằng ngôn ngữ bản than se dễ hơn|
+| 4 |**Vinhomes**  | Pain từ người khác |Hệ thống phân loại và route tự động các phản hồi/khiếu nại của cư dân trên App Vinhomes Resident (CSKH phản hồi rập khuôn, mất 12 tiếng) |
+| 6 | **Xanh SM** | Tốn thời gian | Tóm tắt lý do khách hàng hủy chuyến từ cuộc gọi ghi âm và ghi chú của tài xế để tìm pattern lỗi hệ thống. |
 
 ---
 
